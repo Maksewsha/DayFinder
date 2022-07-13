@@ -1,2 +1,2 @@
 # DayFinder
-First app on swift
+First app on swift using UIKit
